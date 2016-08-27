@@ -1,4 +1,4 @@
-# herokusolochallenge
+# heroku_solo_challenge
 
 ###Description
 
